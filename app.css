@@ -1,0 +1,18 @@
+body {
+    text-align: center;
+    
+}
+
+
+.wrapper {
+    max-inline-size: 900px;
+    margin-inline:auto;
+
+}
+
+.multi-column-layout {
+    gap:5px;
+    display:grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    color:green;
+}
