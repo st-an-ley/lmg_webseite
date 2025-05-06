@@ -16,3 +16,14 @@ body {
     grid-template-columns: 1fr 1fr 1fr;
     color:green;
 }
+
+.lander {
+    color:fff;
+    background-image: url('images/webseite_aktuell.png');
+    padding:120px;
+    border:red;
+    background-repeat: no-repeat;
+    background-position:center;
+    background-size:cover;
+}
+
